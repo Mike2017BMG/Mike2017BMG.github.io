@@ -135,21 +135,23 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1476813001184-9044d31e0ad1-2000x1333-10.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/Kza6bkroDr8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
